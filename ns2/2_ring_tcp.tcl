@@ -32,7 +32,7 @@ $ns duplex-link $n1 $n2 5Mb 10ms DropTail
 $ns duplex-link $n2 $n3 5Mb 10ms DropTail
 $ns duplex-link $n3 $n4 5Mb 10ms DropTail
 $ns duplex-link $n4 $n0 5Mb 10ms DropTail
-$ns duplex-link-op $n $n1 orient right-down     
+$ns duplex-link-op $n0 $n1 orient right-down     
 $ns duplex-link-op $n1 $n2 orient down
 $ns duplex-link-op $n2 $n3 orient left
 $ns duplex-link-op $n3 $n4 orient up
