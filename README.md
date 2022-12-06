@@ -1,5 +1,5 @@
 # cnlab
 
-CentOS Wget commands
+##CentOS Wget commands
 $env | grep -i proxy
 $unset https_proxy
