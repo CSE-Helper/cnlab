@@ -1,0 +1,6 @@
+$sudo tcpdump
+
+$ifconfig -a
+
+$netstat -at
+$netstat -l
